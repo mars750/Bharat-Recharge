@@ -1,0 +1,6 @@
+{
+  "name": "BharatRecharge - Jio & Airtel Instant Mobile Recharge",
+  "description": "Production-grade Indian mobile recharge platform for Jio and Airtel with dynamic UPI QR payments, server-side verification, instant recharge processing, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
